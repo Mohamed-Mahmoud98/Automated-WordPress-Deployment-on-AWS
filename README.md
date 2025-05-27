@@ -112,7 +112,7 @@ ansible-playbook -i inventory roles/php_wordpress/tasks/main.yml
 ansible-playbook -i inventory roles/mariadb/tasks/main.yml
 ```
 
-### 4. Jenkins Pipeline
+### 4. Jenkins Pipeline (Optional but Recommended)
 
 - Create a Jenkins pipeline and point it to the `Jenkinsfile`
 - Trigger the pipeline to automate Terraform and Ansible runs
