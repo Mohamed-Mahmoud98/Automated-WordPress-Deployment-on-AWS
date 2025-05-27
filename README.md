@@ -134,10 +134,6 @@ After successful deployment and configuration, navigate to the public IP of the 
 
 ![Main Page](https://github.com/user-attachments/assets/3b27ce7a-aa6c-4e00-bf6d-9877af8b184a)
 
-## 🌐 Access Your WordPress Site
-
-After successful deployment and configuration, navigate to the public IP of the WordPress EC2 instance in your browser to complete the WordPress setup.
-
 ---
 
 
