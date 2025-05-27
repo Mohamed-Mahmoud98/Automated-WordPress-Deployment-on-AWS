@@ -119,6 +119,11 @@ ansible-playbook -i inventory roles/mariadb/tasks/main.yml
 - Note: Make sure to replace any placeholder credentials (e.g., AWS access keys, SSH keys, GitHub tokens) in the Jenkinsfile or related configurations with your actual credentials.
 - It is recommended to use Jenkins Credentials Manager to securely store and inject these values rather than hardcoding them.
 ---
+## 🌐 Access Your WordPress Site
+
+After successful deployment and configuration, navigate to the public IP of the WordPress EC2 instance in your browser to complete the WordPress setup.
+
+---
 
 ## 🖥️ WordPress Interface
 🔐 WordPress Login Page
